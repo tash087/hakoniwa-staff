@@ -68,42 +68,6 @@
             ],
             "message": "「箱庭クラフト！」がより良い場所であるために、システム面とサポート面の両方から日々尽力しています！"
         },
-        "luke_astrea": {
-            "id": "luke_astrea",
-            "name": "Luke_Astrea",
-            "title": "Luke_Astrea - 運営紹介 - 箱庭クラフト！",
-            "description": "Minecraftサーバー「箱庭クラフト！」のプロダクトマネジメント・カスタマーサポート担当、Luke_Astreaのプロフィールです。",
-            "icon_emoji": "🌟",
-            "role_lead": "Product Management / Customer Support",
-            "status": "Online Support",
-            "department": "プロダクトマネジメント部門 / カスタマーサポート部門",
-            "main_role": "プロジェクトの進捗管理・部門間連携、プレイヤーとのパイプ役",
-            "start_date_text": "2026年1月23日就任",
-            "start_date_raw": "2026-01-23",
-            "roots": "旧ゆにくら！ / G鯖",
-            "motto": "「精一杯、箱庭クラフト！を盛り上げる」",
-            "sns-links": [
-                {
-                    "icon": "images/sns/webp/x_icon_black.webp",
-                    "url": "https://x.com/luke_astrea"
-                },
-                {
-                    "icon": "images/sns/webp/twitch_icon.webp",
-                    "url": "https://www.twitch.tv/luke_astrea"
-                }
-            ],
-            "content_blocks": [
-                {
-                    "title": "🤝 運営加入の経緯",
-                    "text": "「箱庭クラフト！」のプレリリース時から参加しており、現在はプロダクトマネジメント部門のメンバーとして活動しています。"
-                },
-                {
-                    "title": "🚀 カスタマーサポートとしての想い",
-                    "text": "カスタマーサポート部門としては、プレイヤーの皆さんと運営を繋ぐ「パイプ役」を大切にしています。"
-                }
-            ],
-            "message": "これからの「箱庭クラフト！」と、新たな運営陣の活躍をどうぞお祈り下さい！"
-        },
         "tash087": {
             "id": "tash087",
             "name": "tash087",
